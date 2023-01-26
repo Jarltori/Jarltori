@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jarltori
-- 👀 I’m interested in a new adventure
-- 🌱 I’m currently learning python
+- 👀 I’m a Software Developer Trainee @ais
+- 🌱 I’m currently learning java, angular, rest, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
